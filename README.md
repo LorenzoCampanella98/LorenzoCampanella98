@@ -1,4 +1,9 @@
 ### Hi there 👋
+---
+Im Lorenzo Emmanuel Campanella. Im a **Programming Technician** graduated from the National Technological University (UTN - Argentina).
+- 🚀 Working on Beskar Blokchain as **Backend & Blockchain Developer**
+- 🌱 Currently training in front-end technologies on my path to becoming a Blockchain Full-Stack developer
+
 
 <!--
 **LorenzoCampanella98/LorenzoCampanella98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
